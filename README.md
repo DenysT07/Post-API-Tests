@@ -62,9 +62,8 @@ npm run test:report
 
 The Playwright HTML report is published to the `gh-pages` branch and can be opened with GitHub Pages:
 
-```text
-https://denyst07.github.io/Post-API-Tests/
-```
+[GitHub Pages.](https://denyst07.github.io/Post-API-Tests/)
+
 
 ## Checks
 
