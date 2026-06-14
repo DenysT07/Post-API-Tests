@@ -58,6 +58,14 @@ Playwright starts the local API before tests and stops it after the run.
 npm run test:report
 ```
 
+## CI Report
+
+The Playwright HTML report is published to the `gh-pages` branch and can be opened with GitHub Pages:
+
+```text
+https://denyst07.github.io/Post-API-Tests/
+```
+
 ## Checks
 
 ```bash
